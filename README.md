@@ -840,10 +840,10 @@ Possible future improvements:
 
 ## Project stats
 
-![GitHub stars](https://img.shields.io/github/stars/TyranR/Zabbix-HP-LaserJet-P1606dn-SNMP?style=social)
-![GitHub forks](https://img.shields.io/github/forks/TyranR/Zabbix-HP-LaserJet-P1606dn-SNMP?style=social)
-![GitHub issues](https://img.shields.io/github/issues/TyranR/Zabbix-HP-LaserJet-P1606dn-SNMP)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/TyranR/Zabbix-HP-LaserJet-P1606dn-SNMP)
+![GitHub stars](https://img.shields.io/github/stars/TyranR/zabbix-hp-laserjet-monitoring?style=social)
+![GitHub forks](https://img.shields.io/github/forks/TyranR/zabbix-hp-laserjet-monitoring?style=social)
+![GitHub issues](https://img.shields.io/github/issues/TyranR/zabbix-hp-laserjet-monitoring)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/TyranR/zabbix-hp-laserjet-monitoring)
 
 ---
 

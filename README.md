@@ -143,10 +143,9 @@ The dashboard includes:
 zabbix-hp-laserjet-p1606dn-snmp/
 ├── README.md
 ├── templates/
-│   └── HP LaserJet P1606dn by SNMP.yaml
+│   └── template_HP_LaserJet_P1606dn_by_SNMP.yaml
 ├── docs/
-│   ├── dashboard-printer-overview.png
-│   └── latest-data.png
+│   └── dashboard-printer-overview.png
 └── LICENSE
 ```
 

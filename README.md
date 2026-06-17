@@ -57,19 +57,7 @@ The template intentionally focuses on stable, useful metrics for a single monoch
 
 ## Screenshots
 
-Recommended screenshot paths:
-
-```text
-docs/dashboard-printer-overview.png
-docs/latest-data.png
-```
-
-Example Markdown once screenshots are added:
-
-```markdown
 ![Printer overview dashboard](docs/dashboard-printer-overview.png)
-![Latest data](docs/latest-data.png)
-```
 
 ---
 
